@@ -1,0 +1,271 @@
+[2023-02-07T19:07:50.384] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:07:54.987] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:07:58.306] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:51:55.939] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a123@a' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:55:52.344] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: '123123123123a@a' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:56:10.053] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'pepito@jamon.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:57:10.426] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a@a' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:57:14.137] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a@a' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:57:20.372] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:57:24.063] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:57:54.491] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:58:32.704] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:59:03.979] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:00:57.739] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:01:52.544] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:14:01.057] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:15:13.286] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:48:46.071] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a@a123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:48:53.345] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a@a123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:49:07.266] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: '1@123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:14:49.906] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: '1@123' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:15:49.491] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: '1@123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:16:05.736] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: '1@123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:16:14.604] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: '1@123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:22:39.396] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'q@q' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:49:24.091] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: 'p@p' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:49:37.234] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: 'w@w' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:50:16.422] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: 'w@a' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:51:40.530] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: '5@5' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:52:06.952] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a@1' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T22:12:20.154] [ERROR] default - Hubo un error en la peticion de productos, el error es: TypeError: req.isAuthenticated is not a function

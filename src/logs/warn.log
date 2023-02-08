@@ -1,0 +1,441 @@
+[2023-01-14T15:01:58.346] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T15:01:59.377] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T15:02:00.170] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T15:03:36.890] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T15:04:05.299] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T15:04:06.385] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T15:04:07.206] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T15:04:08.458] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T15:04:46.627] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T15:04:47.664] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T23:25:18.188] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T23:25:22.135] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-01-14T23:25:23.617] [WARN] default - Se intento ingresar al a ruta /prueba
+[2023-02-06T18:23:36.219] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:24:02.572] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:26:16.174] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:26:51.129] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:29:37.277] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:41:09.346] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:41:13.274] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:50:25.342] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:52:45.325] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:53:58.252] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:55:08.978] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:55:25.433] [WARN] default - Se intento ingresar al a ruta /lregister
+[2023-02-06T18:55:30.736] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:55:34.387] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:55:35.670] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:56:02.380] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:56:21.838] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:56:31.200] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:56:43.779] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:57:02.777] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:57:09.133] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T18:57:26.084] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T19:01:51.131] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T19:02:14.726] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T19:04:05.078] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T19:06:50.855] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T20:05:14.137] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T20:05:20.903] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T20:05:33.572] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T20:06:05.033] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T20:07:34.760] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T20:07:50.042] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T20:07:56.959] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T20:08:11.547] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T20:08:30.479] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-06T20:08:35.972] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T17:58:51.752] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T18:01:05.613] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:07:43.893] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:07:50.384] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:07:50.940] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:07:54.987] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:07:55.315] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:07:58.306] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:07:58.620] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:28:08.439] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:28:12.130] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:28:20.112] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:28:33.343] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:28:35.722] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:42:50.502] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:43:34.740] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:43:56.412] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:50:39.728] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:51:55.939] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a123@a' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:54:31.942] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:54:58.537] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:55:48.256] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:55:52.344] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: '123123123123a@a' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:56:10.053] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'pepito@jamon.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:56:12.957] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:56:18.354] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:56:20.375] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:56:52.827] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:56:56.046] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:56:56.047] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:57:00.348] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:57:10.426] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a@a' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:57:10.791] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:57:14.137] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a@a' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:57:14.457] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:57:20.372] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:57:20.684] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:57:24.063] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:57:54.491] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:58:32.704] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T19:58:58.113] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:59:01.985] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T19:59:03.979] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:00:53.985] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:00:57.739] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:01:49.271] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:01:52.544] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:14:01.057] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:15:08.955] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:15:13.286] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: 'buddy.alan2@hotmail.com' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:16:32.108] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:24:37.777] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:28:02.535] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:30:59.647] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:31:09.057] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:31:13.526] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:31:30.269] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:33:45.728] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:35:04.355] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:36:43.546] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:39:14.272] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:39:18.761] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:40:08.378] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:40:11.718] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:40:40.249] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:40:42.425] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:47:09.956] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:47:13.704] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:48:26.162] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:48:30.102] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:48:46.071] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a@a123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:48:53.345] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a@a123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:49:07.266] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: '1@123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T20:49:13.599] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T20:49:28.203] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:14:49.906] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: '1@123' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:15:49.491] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: '1@123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:16:05.736] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: '1@123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:16:14.604] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: '1@123' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:22:18.779] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:22:39.396] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'q@q' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:22:50.182] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:22:53.851] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:49:10.921] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:49:14.838] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:49:24.091] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: 'p@p' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:49:24.346] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:49:37.234] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: 'w@w' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:49:37.482] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:50:02.208] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:50:16.422] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: 'w@a' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:50:16.977] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:51:34.777] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:51:40.530] [ERROR] default - MongooseError: Query was already executed: users.find({ userName: '5@5' })
+    at model.Query._wrappedThunk [as _find] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _find] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:51:40.785] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:52:02.363] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:52:06.952] [ERROR] default - MongooseError: Query was already executed: users.findOne({ userName: 'a@1' })
+    at model.Query._wrappedThunk [as _findOne] (D:\Coder House\BackEnd\Desafio 18\node_modules\mongoose\lib\helpers\query\wrapThunk.js:23:19)
+    at D:\Coder House\BackEnd\Desafio 18\node_modules\kareem\index.js:426:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+  originalStack: 'Error\n' +
+    '    at model.Query._wrappedThunk [as _findOne] (D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:27:28)\n' +
+    '    at D:\\Coder House\\BackEnd\\Desafio 18\\node_modules\\kareem\\index.js:426:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)'
+}
+[2023-02-07T21:52:28.178] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:52:46.466] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:53:08.988] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:53:17.927] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:53:23.613] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:54:21.863] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:54:43.528] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T21:54:53.553] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:03:38.546] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:03:42.239] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:04:01.935] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:06:37.310] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:07:20.114] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:12:20.154] [ERROR] default - Hubo un error en la peticion de productos, el error es: TypeError: req.isAuthenticated is not a function
+[2023-02-07T22:12:30.658] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:14:21.034] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:14:46.209] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:15:53.210] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:16:18.739] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:16:18.741] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:16:41.255] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:16:44.585] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:17:54.454] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:18:18.542] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:19:33.930] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:19:56.948] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:20:16.424] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:20:35.909] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:21:27.181] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:22:05.752] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:22:22.587] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:22:28.471] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:22:43.405] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:24:17.396] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:24:53.652] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:37:25.653] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:38:08.321] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:38:30.226] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:39:42.196] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:40:00.600] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:40:31.281] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:40:59.566] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:41:11.490] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:42:37.446] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:42:59.118] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:43:37.810] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:43:39.012] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:44:01.862] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:44:16.164] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:44:44.124] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:44:59.671] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:45:08.655] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:47:30.913] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:47:35.277] [WARN] default - Se intento ingresar al a ruta /favicon.ico
+[2023-02-07T22:47:46.597] [WARN] default - Se intento ingresar al a ruta /favicon.ico

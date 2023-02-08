@@ -1,0 +1,149 @@
+Statistical profiling result from isolate_con_console.log, (2895 ticks, 0 unaccounted, 0 excluded).
+
+ [Shared libraries]:
+   ticks  total  nonlib   name
+   2676   92.4%          C:\Windows\SYSTEM32\ntdll.dll
+    211    7.3%          C:\Program Files\node\node.exe
+      1    0.0%          C:\Windows\System32\KERNELBASE.dll
+      1    0.0%          C:\Windows\System32\KERNEL32.DLL
+
+ [JavaScript]:
+   ticks  total  nonlib   name
+      1    0.0%   16.7%  LazyCompile: *resolve node:path:158:10
+      1    0.0%   16.7%  LazyCompile: *next C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\index.js:177:16
+      1    0.0%   16.7%  Function: ^trim_prefix C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\index.js:293:23
+      1    0.0%   16.7%  Function: ^end C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\compression\index.js:92:28
+      1    0.0%   16.7%  Function: ^clearBuffer node:internal/streams/writable:532:21
+      1    0.0%   16.7%  Function: ^_addListener node:events:541:22
+
+ [C++]:
+   ticks  total  nonlib   name
+
+ [Summary]:
+   ticks  total  nonlib   name
+      6    0.2%  100.0%  JavaScript
+      0    0.0%    0.0%  C++
+      7    0.2%  116.7%  GC
+   2889   99.8%          Shared libraries
+
+ [C++ entry points]:
+   ticks    cpp   total   name
+
+ [Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 1.0% are not shown.
+
+   ticks parent  name
+   2676   92.4%  C:\Windows\SYSTEM32\ntdll.dll
+
+    211    7.3%  C:\Program Files\node\node.exe
+    168   79.6%    C:\Program Files\node\node.exe
+     32   19.0%      Function: ^internalCompileFunction node:internal/vm:30:33
+     31   96.9%        Function: ^wrapSafe node:internal/modules/cjs/loader:1117:18
+     31  100.0%          Function: ^Module._compile node:internal/modules/cjs/loader:1173:37
+     30   96.8%            Function: ^Module._extensions..js node:internal/modules/cjs/loader:1227:37
+      1    3.2%            LazyCompile: ~Module._extensions..js node:internal/modules/cjs/loader:1227:37
+      1    3.1%        LazyCompile: ~wrapSafe node:internal/modules/cjs/loader:1117:18
+      1  100.0%          LazyCompile: ~Module._compile node:internal/modules/cjs/loader:1173:37
+      1  100.0%            LazyCompile: ~Module._extensions..js node:internal/modules/cjs/loader:1227:37
+     20   11.9%      Function: ^stringify C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\response.js:1145:20
+     20  100.0%        Function: ^json C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\response.js:250:25
+     20  100.0%          Function: ^<anonymous> file:///C:/Users/delma/OneDrive/Escritorio/Desafio%2016/Desafio%2016/src/routes/info.js:8:34
+     12   60.0%            LazyCompile: *handle C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\layer.js:86:49
+      8   40.0%            Function: ^handle C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\layer.js:86:49
+     19   11.3%      Function: ^moduleStrategy node:internal/modules/esm/translators:114:56
+     19  100.0%        Function: ^moduleProvider node:internal/modules/esm/loader:452:28
+     19  100.0%          C:\Program Files\node\node.exe
+     11    6.5%      Function: ^stat node:internal/modules/cjs/loader:161:14
+      6   54.5%        Function: ^Module._findPath node:internal/modules/cjs/loader:555:28
+      6  100.0%          Function: ^Module._resolveFilename node:internal/modules/cjs/loader:948:35
+      6  100.0%            Function: ^Module._load node:internal/modules/cjs/loader:851:24
+      5   45.5%        Function: ^tryFile node:internal/modules/cjs/loader:440:17
+      2   40.0%          LazyCompile: *Module._findPath node:internal/modules/cjs/loader:555:28
+      2  100.0%            Function: ^Module._resolveFilename node:internal/modules/cjs/loader:948:35
+      2   40.0%          Function: ^tryExtensions node:internal/modules/cjs/loader:456:23
+      2  100.0%            Function: ^Module._findPath node:internal/modules/cjs/loader:555:28
+      1   20.0%          Function: ^tryPackage node:internal/modules/cjs/loader:394:20
+      1  100.0%            LazyCompile: *Module._findPath node:internal/modules/cjs/loader:555:28
+      9    5.4%      Function: ^handleWriteReq node:internal/stream_base_commons:45:24
+      9  100.0%        Function: ^writeGeneric node:internal/stream_base_commons:147:22
+      9  100.0%          Function: ^Socket._writeGeneric node:net:897:42
+      9  100.0%            Function: ^Socket._write node:net:934:35
+      5    3.0%      Function: ^writevGeneric node:internal/stream_base_commons:122:23
+      5  100.0%        Function: ^Socket._writeGeneric node:net:897:42
+      5  100.0%          Function: ^Socket._writev node:net:929:36
+      5  100.0%            Function: ^doWrite node:internal/streams/writable:401:17
+      5    3.0%      Function: ^compileForInternalLoader node:internal/bootstrap/loaders:319:27
+      4   80.0%        Function: ^requireBuiltin node:internal/bootstrap/loaders:356:24
+      1   25.0%          Function: ~<anonymous> node:http:1:1
+      1  100.0%            Function: ^compileForInternalLoader node:internal/bootstrap/loaders:319:27
+      1   25.0%          Function: ~<anonymous> node:http2:1:1
+      1  100.0%            Function: ^compileForInternalLoader node:internal/bootstrap/loaders:319:27
+      1   25.0%          Function: ~<anonymous> node:child_process:1:1
+      1  100.0%            Function: ^compileForInternalLoader node:internal/bootstrap/loaders:319:27
+      1   25.0%          Function: ~<anonymous> node:assert:1:1
+      1  100.0%            Function: ^compileForInternalLoader node:internal/bootstrap/loaders:319:27
+      1   20.0%        LazyCompile: ~compileForPublicLoader node:internal/bootstrap/loaders:264:25
+      1  100.0%          Function: ^loadBuiltinModule node:internal/modules/cjs/helpers:45:27
+      1  100.0%            LazyCompile: ~Module._load node:internal/modules/cjs/loader:851:24
+      3    1.8%      LazyCompile: ~configSecureContext node:internal/tls/secure-context:124:29
+      3  100.0%        LazyCompile: ~createSecureContext node:_tls_common:99:29
+      3  100.0%          LazyCompile: ~connect node:_tls_wrap:1612:35
+      3  100.0%            LazyCompile: ~makeConnection C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\mongodb\lib\cmap\connect.js:256:24
+      3    1.8%      Function: ^writeHead node:_http_server:338:19
+      3  100.0%        Function: ^writeHead C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\on-headers\index.js:28:29
+      3  100.0%          Function: ^writeHead C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\on-headers\index.js:28:29
+      3  100.0%            Function: ^_implicitHeader node:_http_server:333:68
+      3    1.8%      Function: ^requireBuiltin node:internal/bootstrap/loaders:356:24
+      1   33.3%        Function: ~<anonymous> node:internal/source_map/source_map_cache:1:1
+      1  100.0%          Function: ^requireBuiltin node:internal/bootstrap/loaders:356:24
+      1  100.0%            LazyCompile: ~initializeSourceMapsHandlers node:internal/process/pre_execution:596:38
+      1   33.3%        Function: ~<anonymous> node:internal/modules/esm/loader:1:1
+      1  100.0%          Function: ^requireBuiltin node:internal/bootstrap/loaders:356:24
+      1  100.0%            Function: ~<anonymous> node:internal/process/esm_loader:1:1
+      1   33.3%        Function: ~<anonymous> node:internal/fs/promises:1:1
+      1  100.0%          Function: ^requireBuiltin node:internal/bootstrap/loaders:356:24
+      1  100.0%            Function: ~<anonymous> node:internal/modules/esm/load:1:1
+      2    1.2%      Function: ^tryStatSync node:fs:419:21
+      2  100.0%        Function: ^readFileSync node:fs:465:22
+      2  100.0%          Function: ^Module._extensions..js node:internal/modules/cjs/loader:1227:37
+      1   50.0%            LazyCompile: *Module._load node:internal/modules/cjs/loader:851:24
+      1   50.0%            Function: ^Module.load node:internal/modules/cjs/loader:1069:33
+      2    1.2%      Function: ^session C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express-session\index.js:179:26
+      1   50.0%        LazyCompile: *trim_prefix C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\index.js:293:23
+      1  100.0%          LazyCompile: *next C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\index.js:177:16
+      1  100.0%            Function: ^cookieParser C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\cookie-parser\index.js:44:32
+      1   50.0%        Function: ^handle C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\layer.js:86:49
+      1  100.0%          Function: ^trim_prefix C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\index.js:293:23
+      1  100.0%            LazyCompile: *next C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\index.js:177:16
+      2    1.2%      Function: ^parserOnMessageComplete node:_http_common:135:33
+      2    1.2%      Function: ^openSync node:fs:591:18
+      2  100.0%        Function: ^readFileSync node:fs:465:22
+      2  100.0%          Function: ^Module._extensions..js node:internal/modules/cjs/loader:1227:37
+      2  100.0%            Function: ^Module.load node:internal/modules/cjs/loader:1069:33
+      2    1.2%      Function: ^initialize C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\passport\lib\middleware\initialize.js:51:29
+      2  100.0%        LazyCompile: *trim_prefix C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\index.js:293:23
+      2  100.0%          LazyCompile: *next C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\index.js:177:16
+      2  100.0%            Function: ^session C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express-session\index.js:179:26
+      2    1.2%      Function: ^getColorDepth node:internal/tty:106:23
+      2  100.0%        Function: ^value node:internal/console/constructor:315:20
+      2  100.0%          Function: ^value node:internal/console/constructor:337:20
+      2  100.0%            Function: ^log node:internal/console/constructor:376:6
+      2    1.2%      Function: ^fromStringFast node:buffer:422:24
+      2  100.0%        Function: ^fromString node:buffer:441:20
+      2  100.0%          Function: ^from node:buffer:305:28
+      2  100.0%            Function: ^send C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\response.js:111:25
+      2    1.2%      Function: ^<anonymous> file:///C:/Users/delma/OneDrive/Escritorio/Desafio%2016/Desafio%2016/src/routes/info.js:8:34
+      1   50.0%        LazyCompile: *handle C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\layer.js:86:49
+      1  100.0%          Function: ^next C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\route.js:116:16
+      1  100.0%            Function: ^compression C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\compression\index.js:59:31
+      1   50.0%        Function: ^handle C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\layer.js:86:49
+      1  100.0%          Function: ^next C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\express\lib\router\route.js:116:16
+      1  100.0%            Function: ^compression C:\Users\delma\OneDrive\Escritorio\Desafio 16\Desafio 16\node_modules\compression\index.js:59:31
+      3    1.4%    LazyCompile: *internalCompileFunction node:internal/vm:30:33
+      3  100.0%      Function: ^wrapSafe node:internal/modules/cjs/loader:1117:18
+      3  100.0%        Function: ^Module._compile node:internal/modules/cjs/loader:1173:37
+      3  100.0%          Function: ^Module._extensions..js node:internal/modules/cjs/loader:1227:37
+      3  100.0%            Function: ^Module.load node:internal/modules/cjs/loader:1069:33
+
